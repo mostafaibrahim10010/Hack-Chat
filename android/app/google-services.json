@@ -1,36 +1,26 @@
 {
   "project_info": {
-    "project_number": "970752108646",
-    "project_id": "hack-chat-4c58e",
-    "storage_bucket": "hack-chat-4c58e.appspot.com"
+    "project_number": "604899124433",
+    "project_id": "hack-chat-3f995",
+    "storage_bucket": "hack-chat-3f995.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:970752108646:android:d1843564a1e6d2ce2ea5a7",
+        "mobilesdk_app_id": "1:604899124433:android:7fb4d93554ca1fd1cb91f0",
         "android_client_info": {
           "package_name": "com.hackclub.chatapp"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "970752108646-foegvalc9dukdm5q7ojurfomark135g5.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDF4WLF_PrJX8dhYXs5r25ImrvTU9qpqAs"
+          "current_key": "AIzaSyCEna0IN961_hgub__FzzS0k6GRJ-WRcCM"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "970752108646-foegvalc9dukdm5q7ojurfomark135g5.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
